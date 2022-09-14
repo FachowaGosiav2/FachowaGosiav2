@@ -1,6 +1,11 @@
 # I'm Gracjan
 
-## I really don't know what write here
+## I'm new in programin
 
-Pleas help me!
+I prefer python but i not yet find what i want to do 
+
+## My expeerience
+
+I don't have it or i's not relevent
+
 
