@@ -9,20 +9,3 @@ I prefer python but i not yet find what i want to do
 ### Python
 
 Pandas 🐼
-
-OpenCV 😅
-
-### Servers
-
-Linux 😎
-
-GNS3 🦎
-
-### Graphics
-
-Photoshop 📷
-
-Coreldraw 🎨
-
-
-
