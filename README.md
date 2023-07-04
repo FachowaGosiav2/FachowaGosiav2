@@ -11,3 +11,5 @@ I prefer python but i not yet find what i want to do
 Pandas 🐼
 
 Numpy 🔢
+
+TensorFlow and Keras 🤖
